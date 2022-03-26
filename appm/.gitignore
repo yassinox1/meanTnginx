@@ -1,0 +1,47 @@
+  
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+
+
+# Coveralls
+coverage
+
+# Benchmarking
+benchmarks/graphs
+
+#zip files
+*.zip
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.vscode
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+applimedia.iml
+
+.nyc_output
+.editorconfig
+certfiles/adfs_cegedim_cert.crt
+certfiles/private_recette_l084.pem
